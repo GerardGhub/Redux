@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+Getting started setup global react-app in directory create-app and install redux in specific version
+Reducers
+Store
+Dispatch and Action
+Redux Devtools
+Subscribe to Store
+Payload
+Action Types
+Action Creator
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
